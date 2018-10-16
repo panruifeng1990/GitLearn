@@ -1,5 +1,3 @@
-# GitLearn
-Git命令学习
 Git 命令
 mkdir test  
 cd test  
